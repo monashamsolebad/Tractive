@@ -1,0 +1,6 @@
+framework module Pods_Tractive {
+  umbrella header "Pods-Tractive-umbrella.h"
+
+  export *
+  module * { export * }
+}

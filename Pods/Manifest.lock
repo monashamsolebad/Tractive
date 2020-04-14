@@ -1,0 +1,21 @@
+PODS:
+  - DropDown (2.3.13)
+  - JTAppleCalendar (8.0.2)
+
+DEPENDENCIES:
+  - DropDown (= 2.3.13)
+  - JTAppleCalendar
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - DropDown
+  trunk:
+    - JTAppleCalendar
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  JTAppleCalendar: bb3dd3752e2bcc85cb798ab763fbdd6e142715fc
+
+PODFILE CHECKSUM: c4cc95826372f369a528ebe412c335d5b5256529
+
+COCOAPODS: 1.8.4
